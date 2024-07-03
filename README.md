@@ -93,11 +93,15 @@ We use a manual random search to tune the following hyperparameters:
 
 ## Results
 
-(Include a summary of your results here, such as accuracy, precision, recall, and F1-score for both models)
+### Performance Comparison
+
+- **Simple Model Accuracy**: 0.9915
+- **Optimized Model Accuracy**: 0.9812
+- **Accuracy Improvement**: -0.0104
 
 ## Conclusion
 
-(Summarize the key findings, the performance difference between the simple and optimized models, and any insights gained from the project)
+In this project, we successfully developed and compared two machine learning models for classifying news articles as fake or real. The simple model achieved a higher accuracy compared to the optimized model. Despite the optimizations, the simple model performed better, suggesting that further tuning or different architectures may be necessary for significant improvements.
 
 ## Future Work
 
