@@ -1,4 +1,4 @@
-# Fake News Classification Project
+# Fake News Classification Project by David Emmanuel
 
 ## Overview
 
